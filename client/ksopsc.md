@@ -14,6 +14,7 @@ They have 1 Cisco ASA. Here are the basics:
 | Make | Model | Address |
 |------|-------|---------|
 |Cisco |ASA 5505| ```192.168.3.254```|
+|dell|wusb67|`192.168.4.37`|
 
 
 ##Transport
