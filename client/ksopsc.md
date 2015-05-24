@@ -24,4 +24,10 @@ This is where we'll put application(s) info.
 
 ###Quickbooks
 
+<div><p>Adding some crazy div!</p></div>
+
+<strong>something strong</strong>
+
+<h4 style="color:blue">This is a Blue Heading</h4>
+
 ##Desktop
